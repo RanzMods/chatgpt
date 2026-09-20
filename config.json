@@ -1,0 +1,15 @@
+{
+  "defaultPassword": "MyStr0ng!Pass2024",
+  "headless": true,
+  "slowMotion": 100,
+  "timeout": 60000,
+  "workers": 1,
+  "stealth": true,
+  "proxy": {
+    "enabled": true,
+    "host": "brd.superproxy.io",
+    "port": 44445,
+    "username": "brd-customer-hl_33053f5e-zone-chatgpt1",
+    "password": "tlot9c2p0hui"
+  }
+}

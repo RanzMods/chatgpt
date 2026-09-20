@@ -1,0 +1,1 @@
+sixawo6060@meonvr.com:FAIL — password field never appeared (url=https://chatgpt.com/auth/login#signup)
